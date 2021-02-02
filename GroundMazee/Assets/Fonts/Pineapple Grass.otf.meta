@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b42e33a19b4b1455991061facb8724a0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pineapple Grass
+  fontNames:
+  - Pineapple Grass
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e8c02f4c3ba9641d98f60307e46be9b9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
